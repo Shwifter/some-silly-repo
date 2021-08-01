@@ -8,7 +8,7 @@ const cacheMaxAge = oneMonth
 
 const genres = ['Entertainment', 'News', 'Sports', 'Kids']
 
-const addonHost = 'https://ustvgo.now.sh'
+const addonHost = 'https://ustvgo.tv/'
 
 const evl = require('eval')
 
